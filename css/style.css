@@ -14,8 +14,8 @@
 
 /* Clock styles */
 .circle {
-    fill: #8c8c8c;
-    stroke: #000;
+    fill: #000;
+    stroke: #333;
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
